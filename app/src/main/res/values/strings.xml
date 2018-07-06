@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tech News </string>
+    <string name="no_internet_connection_found">No Internet Connection found</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
